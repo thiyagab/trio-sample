@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
     private static final String TAG = "TrioSample";
     private RecyclerView modelsList;
     private SwipeRefreshLayout contentView;
-    private static final String JSON_URL = "https://s3.amazonaws.com/harmony-recruit/devices.json";
+    private static final String JSON_URL = "https://anonymaz-in.firebaseapp.com/devices.json";
 
 
     @Override
